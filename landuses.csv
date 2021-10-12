@@ -1,0 +1,328 @@
+type,Freq,group
+amenity:parking,833,car_parking
+amenity:parking barrier:fence,1,car_parking
+amenity:parking building:parking,12,car_parking
+amenity:parking_space,274,car_parking
+building:car_park,1,car_parking
+building:carpark,1,car_parking
+building:garage,43,car_parking
+building:garages,29,car_parking
+amenity:fuel,9,car_petrol_station
+amenity:fuel landuse:retail,1,car_petrol_station
+amenity:fuel shop:convenience,1,car_petrol_station
+amenity:car_rental,2,commercial
+amenity:post_depot,4,commercial
+amenity:studio,1,commercial
+barrier:fence landuse:brownfield,1,commercial
+barrier:fence landuse:commercial,1,commercial
+building:car_showroom,1,commercial
+building:commercial,393,commercial
+building:commercial man_made:works,1,commercial
+building:commercial office:lawyer,1,commercial
+building:greenhouse,4,commercial
+building:service,10,commercial
+building:shed,6,commercial
+building:telecommunications,1,commercial
+building:warehouse,15,commercial
+landuse:commercial,46,commercial
+landuse:commercial shop:car,1,commercial
+landuse:commercial shop:trade,1,commercial
+landuse:construction,39,commercial
+leisure:hackerspace,1,commercial
+amenity:conference_centre,1,commercial
+amenity:events_venue,2,commercial
+amenity:childcare,3,education
+amenity:college,9,education
+amenity:kindergarten,3,education
+amenity:school,61,education
+amenity:university,12,education
+amenity:university building:university,1,education
+building:college,4,education
+building:kindergarten,1,education
+building:school,47,education
+building:university,52,education
+building:university tourism:gallery,1,education
+amenity:casino,1,entertainment
+amenity:cinema,2,entertainment
+amenity:gambling,4,entertainment
+amenity:nightclub,1,entertainment
+amenity:pub,55,entertainment
+amenity:pub building:brewery,1,entertainment
+amenity:pub building:pub,1,entertainment
+amenity:theatre,8,entertainment
+amenity:theatre building:derelict,1,entertainment
+building:cinema,1,entertainment
+leisure:adult_gaming_centre,1,entertainment
+leisure:dance,1,entertainment
+tourism:museum,9,entertainment
+amenity:cafe,14,food_drink
+amenity:cafe shop:coffee,1,food_drink
+amenity:cafe shop:convenience,1,food_drink
+amenity:fast_food,38,food_drink
+amenity:fast_food building:retail,1,food_drink
+amenity:restaurant,28,food_drink
+building:pub,2,food_drink
+landuse:allotments,7,greenspace
+landuse:farmland,3,greenspace
+leisure:garden,226,greenspace
+leisure:outdoor_seating,1,greenspace
+leisure:park,73,greenspace
+leisure:playground,22,greenspace
+barrier:wall leisure:garden,1,greenspace
+building:commercial tourism:hotel,1,hotel
+building:hotel,23,hotel
+building:hotel tourism:hotel,3,hotel
+tourism:hotel,28,hotel
+building:industrial,89,industrial
+building:industrial historic:building,1,industrial
+building:manufacture,2,industrial
+landuse:industrial,72,industrial
+landuse:industrial shop:builders_merchant,1,industrial
+amenity:clinic,6,medical
+amenity:dentist,4,medical
+amenity:doctors,7,medical
+amenity:hospital,12,medical
+amenity:pharmacy,5,medical
+building:doctors,1,medical
+building:hospital,108,medical
+building:data_center,1,office
+building:office,64,office
+building:office landuse:commercial,2,office
+building:office landuse:commercial office:company,1,office
+building:office office:company,1,office
+building:office office:computer_software,1,office
+building:office office:insurance,1,office
+landuse:military military:office,1,office
+office:architect,1,office
+office:Business_Centre,1,office
+office:coworking,3,office
+office:educational_institution,2,office
+office:employment_agency,3,office
+office:estate_agent,12,office
+office:financial_advisor,1,office
+office:government,2,office
+office:lawyer,11,office
+office:taxi,4,office
+office:telecommunication,1,office
+office:yes,16,office
+amenity:place_of_worship,42,place_of_worship
+amenity:place_of_worship building:cathedral,1,place_of_worship
+amenity:place_of_worship building:chapel,1,place_of_worship
+amenity:place_of_worship building:church,22,place_of_worship
+amenity:place_of_worship building:church historic:heritage,2,place_of_worship
+amenity:place_of_worship building:commercial,1,place_of_worship
+amenity:place_of_worship building:mosque,1,place_of_worship
+amenity:place_of_worship building:synagogue,1,place_of_worship
+amenity:place_of_worship shop:books,1,place_of_worship
+amenity:religious_precinct landuse:religious,1,place_of_worship
+building:chapel,1,place_of_worship
+building:church,6,place_of_worship
+landuse:cemetery,5,place_of_worship
+landuse:churchyard,3,place_of_worship
+landuse:religious,5,place_of_worship
+amenity:grave_yard,2,place_of_worship
+amenity:community_centre,11,public_service
+amenity:courthouse,4,public_service
+amenity:courthouse building:public,2,public_service
+amenity:library,5,public_service
+amenity:library building:civic,1,public_service
+amenity:library building:public,1,public_service
+amenity:library historic:building,1,public_service
+amenity:police,6,public_service
+amenity:public_building,1,public_service
+amenity:public_building building:public,1,public_service
+amenity:recycling,1,public_service
+amenity:shelter,10,public_service
+amenity:social_facility,6,public_service
+amenity:townhall,10,public_service
+building:civic,2,public_service
+building:fire_station,1,public_service
+building:public,7,public_service
+amenity:fire_station,4,public_service
+place:square,5,
+amenity:court-yard,1,
+amenity:bicycle_parking,14,public_transport
+amenity:bus_station,18,public_transport
+amenity:bus_station building:no,1,public_transport
+building:bus_station,2,public_transport
+building:train_station,22,public_transport
+building:train_station shop:ticket,1,public_transport
+building:transportation,2,public_transport
+building:velodrome leisure:stadium sport:cycling,1,public_transport
+building:apartments,339,residential
+building:bungalow,1,residential
+building:detached,107,residential
+building:dormitory,97,residential
+building:house,1719,residential
+building:residential,250,residential
+building:semidetached_house,70,residential
+building:terrace,355,residential
+landuse:residential,237,residential
+amenity:bank,14,shop
+amenity:bank building:retail,2,shop
+amenity:bar,12,shop
+amenity:biergarten,1,shop
+amenity:brothel shop:massage,1,shop
+amenity:car_wash,7,shop
+amenity:marketplace,7,shop
+amenity:marketplace building:markethall,1,shop
+amenity:marketplace shop:market,1,shop
+amenity:post_office,4,shop
+amenity:shop landuse:retail,2,shop
+amenity:veterinary,3,shop
+building:commercial shop:bicycle;car_parts,1,shop
+building:commercial shop:books,1,shop
+building:commercial shop:frozen_food,1,shop
+building:kiosk,2,shop
+building:mall shop:mall,1,shop
+building:market_hall shop:market,1,shop
+building:retail,403,shop
+building:retail historic:heritage,2,shop
+building:retail landuse:retail shop:department_store,1,shop
+building:retail landuse:retail shop:supermarket,1,shop
+building:retail shop:books,1,shop
+building:retail shop:car,1,shop
+building:retail shop:charity,1,shop
+building:retail shop:clothes,1,shop
+building:retail shop:convenience,1,shop
+building:retail shop:department_store,1,shop
+building:retail shop:furniture,1,shop
+building:retail shop:mall,5,shop
+building:retail shop:supermarket,7,shop
+building:shop,1,shop
+building:shop shop:convenience,1,shop
+building:supermarket,1,shop
+building:supermarket shop:frozen_food,1,shop
+building:supermarket shop:supermarket,3,shop
+craft:glaziery,1,shop
+craft:shoemaker,1,shop
+craft:watchmaker,1,shop
+landuse:greenhouse_horticulture shop:garden_centre,1,shop
+landuse:retail,100,shop
+landuse:retail shop:mall,1,shop
+shop:alcohol,1,shop
+shop:antiques,2,shop
+shop:appliance,1,shop
+shop:bakery,4,shop
+shop:beauty,13,shop
+shop:bed,1,shop
+shop:bicycle,1,shop
+shop:bookmaker,8,shop
+shop:books,1,shop
+shop:builders_merchant,1,shop
+shop:butcher,3,shop
+shop:car,7,shop
+shop:car_parts,2,shop
+shop:car_repair,9,shop
+shop:caravan,1,shop
+shop:carpet,2,shop
+shop:catalogue,2,shop
+shop:charity,14,shop
+shop:chemist,2,shop
+shop:clothes,23,shop
+shop:computer,2,shop
+shop:confectionery,2,shop
+shop:convenience,7,shop
+shop:costume,1,shop
+shop:craft,2,shop
+shop:decorations,1,shop
+shop:deli,2,shop
+shop:department_store,5,shop
+shop:doityourself,1,shop
+shop:dry_cleaning,1,shop
+shop:e-cigarette,8,shop
+shop:electronics,4,shop
+shop:florist,4,shop
+shop:frozen_food,2,shop
+shop:funeral_directors,4,shop
+shop:furniture,5,shop
+shop:gift,8,shop
+shop:greengrocer,2,shop
+shop:hairdresser,25,shop
+shop:health_food,2,shop
+shop:houseware,1,shop
+shop:interior_decoration,1,shop
+shop:jewelry,4,shop
+shop:laundry,2,shop
+shop:mall,10,shop
+shop:market,1,shop
+shop:massage,1,shop
+shop:mobile_phone,5,shop
+shop:music,2,shop
+shop:musical_instrument,1,shop
+shop:newsagent,9,shop
+shop:optician,6,shop
+shop:pawnbroker,3,shop
+shop:pet,4,shop
+shop:shoes,8,shop
+shop:sports,5,shop
+shop:stationery,2,shop
+shop:supermarket,24,shop
+shop:tattoo,3,shop
+shop:telecommunication,1,shop
+shop:toys,1,shop
+shop:trade,3,shop
+shop:travel_agency,2,shop
+shop:vacant,27,shop
+shop:variety_store,11,shop
+shop:video_games,2,shop
+shop:window_blind,1,shop
+shop:wine,1,shop
+shop:yes,32,shop
+amenity:swimming_pool sport:swimming,1,sport
+barrier:fence leisure:pitch sport:tennis,4,sport
+building:commercial leisure:sports_centre sport:multi,1,sport
+landuse:recreation_ground,5,sport
+landuse:recreation_ground sport:cricket,1,sport
+leisure:fitness_centre,6,sport
+leisure:fitness_centre sport:swimming;fitness,1,sport
+leisure:golf_course,2,sport
+leisure:golf_course sport:golf,1,sport
+leisure:pitch,9,sport
+leisure:pitch sport:basketball,3,sport
+leisure:pitch sport:bowls,11,sport
+leisure:pitch sport:cricket,2,sport
+leisure:pitch sport:football,1,sport
+leisure:pitch sport:skateboard,1,sport
+leisure:pitch sport:soccer,15,sport
+leisure:pitch sport:tennis,7,sport
+leisure:recreation_ground,2,sport
+leisure:sports_centre,2,sport
+leisure:sports_centre sport:climbing,1,sport
+leisure:sports_centre sport:diving;swimming,1,sport
+leisure:sports_centre sport:multi,2,sport
+leisure:sports_centre sport:swimming,1,sport
+leisure:sports_centre sport:swimming;multi;fitness_centre,1,sport
+leisure:stadium,2,sport
+leisure:stadium sport:cycling,1,sport
+leisure:swimming_area sport:swimming,1,sport
+leisure:swimming_pool,1,sport
+leisure:swimming_pool sport:swimming,1,sport
+leisure:track sport:athletics,1,sport
+leisure:track sport:cycling;bmx,1,sport
+leisure:yes,1,sport
+sport:boxing,1,sport
+sport:squash,1,sport
+sport:tennis,1,sport
+sport:wakeboarding,1,sport
+building:sports_centre leisure:sports_centre,1,sport
+building:sports_hall sport:multi,1,sport
+building:stable,2,sport
+barrier:hedge,33,
+barrier:wall,1,
+barrier:wall landuse:grass,1,
+boundary:census,1,
+building:construction,3,
+building:disused,2,
+historic:building,2,
+historic:heritage,2,
+historic:memorial,2,
+historic:monument tourism:artwork,1,
+historic:yes man_made:chimney,3,
+landuse:basin,1,
+landuse:brownfield,40,
+man_made:arch tourism:attraction,1,
+man_made:bridge,1,
+man_made:chimney,1,
+man_made:pier,3,
+man_made:tower,1,
